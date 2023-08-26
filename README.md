@@ -36,7 +36,7 @@ This project introduces an innovative approach to spam message classification us
 
 ## 🔎 Details of Codes
 
-### [Fuzzy's Project](./Codes/./Codes/Fuzzy's%20Project.ipynb)
+### [Fuzzy's Project](./Code/Fuzzy's%20Project.ipynb)
 Fuzzy logic is a mathematical approach that deals with uncertainty and imprecision. In the context of spam filtering, fuzzy logic is used to define an evolutionary algorithm that takes into account the "fuzziness" of certain characteristics in messages for the chromosome's fitness when classifying them as spam or not spam.
 
 
@@ -61,7 +61,7 @@ cd Spam_Filtering_Classification
 
 3. Install the dependencies:
 ```sh
-pip install -r ./Codes/requirements.txt
+pip install -r ./Code/requirements.txt
 ```
 
 ### 🎮 Using CIFAR_10_Image_Classification
