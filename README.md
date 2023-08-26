@@ -16,7 +16,7 @@
 ---
 ## 📍 Overview
 
-This project introduces an innovative approach to spam message classification using fuzzy logic. It contains [code](./Codes/Fuzzy's%20Project.ipynb), [datasets](./Codes/SMSSpamCollection), and resources related to the development and evaluation of the spam classification model based on fuzzy logic. Traditional spam filters often use binary classification to determine whether a message is spam or not. This project takes a different route by implementing fuzzy logic, allowing for a more nuanced classification approach. Fuzzy logic takes into account the degree of membership of a message to different classes, which use evolutionary approach to specify the result.
+This project introduces an innovative approach to spam message classification using fuzzy logic. It contains [code](./Code/Fuzzy's%20Project.ipynb), [datasets](./Code/SMSSpamCollection), and resources related to the development and evaluation of the spam classification model based on fuzzy logic. Traditional spam filters often use binary classification to determine whether a message is spam or not. This project takes a different route by implementing fuzzy logic, allowing for a more nuanced classification approach. Fuzzy logic takes into account the degree of membership of a message to different classes, which use evolutionary approach to specify the result.
 
 ---
 
@@ -24,10 +24,10 @@ This project introduces an innovative approach to spam message classification us
 ## 📂 Project Structure
 
  * [README.md](./README.md)
- * [Codes](./Codes)
-   * [Fuzzy's Project.ipynb](./Codes/Fuzzy's%20Project.ipynb)
-   * [SMSSpamCollection](./Codes/SMSSpamCollection)
-   * [requirements.txt](requirements.txt)
+ * [Codes](./Code)
+   * [Fuzzy's Project.ipynb](./Code/Fuzzy's%20Project.ipynb)
+   * [SMSSpamCollection](./Code/SMSSpamCollection)
+   * [requirements.txt](./Code/requirements.txt)
  * [Documents](./Documents)
    * [Persian_Doc.pdf](./Documents/Persian_Doc.pdf)
    * [Problem Statement.pdf](./Documents/Problem%20Statement.pdf)
